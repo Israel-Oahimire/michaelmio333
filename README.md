@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michaelmio333
+- 👋 Hi, I’m Israel
 - 👀 I’m interested in UI/UX designs and databases
 - 🌱 I’m currently learning Bootstrap and MySQL
 - 💞️ I’m looking to collaborate on anythign
